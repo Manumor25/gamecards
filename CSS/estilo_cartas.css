@@ -1,0 +1,57 @@
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+
+nav li {
+	margin-right: 20px;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+}
+
+
+
+.container {
+    background-color:rgb(248, 146, 105);
+    
+    justify-content: space-around;
+}
+
+.vent{
+	color:#010101;
+}
+
+.titulopagina{
+    justify-content: center;
+
+}
+
+
+
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+    display: flex;
+}
+
+.titulo{
+    font-size: flex;
+    background-color: #333;
+    color: white;
+    
+} 
