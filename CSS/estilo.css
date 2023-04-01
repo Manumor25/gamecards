@@ -1,4 +1,6 @@
-
+html,body{
+    background: -webkit-linear-gradient(left,#ff5100,#333);
+}
 header {
 	background-color: #333;
 	color: #fff;
@@ -7,6 +9,7 @@ header {
     top: 0;
     z-index:15;
 }
+
 
 
 nav ul {
@@ -28,9 +31,6 @@ nav a {
 
 
 .container {
-    
-    background-color: rgb(248, 146, 105);
-    
     justify-content: space-around;
 }
 
